@@ -1,0 +1,8 @@
+This is a basic Android app designed for the Nexus S to read in all sensor input from the device including:
+- Accelerometer
+- Orientation
+- Light
+- Magnetic
+- Proximity
+- Temperature
+
